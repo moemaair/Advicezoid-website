@@ -21,6 +21,7 @@ html {
 
 body {
 background-color: white;
+margin: 40px;
 }
 #logo{
 -webkit-border-radius: 20px;
